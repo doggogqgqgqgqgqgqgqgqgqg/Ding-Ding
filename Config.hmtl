@@ -1,0 +1,9 @@
+<configuration>
+   <system.webServer>
+      <httpProtocol>
+         <customHeaders>
+            <add name="lol xd" />
+         </customHeaders>
+      </httpProtocol>
+   </system.webServer>
+</configuration>
